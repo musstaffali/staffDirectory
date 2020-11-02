@@ -14,17 +14,18 @@ License
 Usage
 
 # Screenshot Previews
-![](Assets/Screen%20Shot%202020-10-28%20at%201.31.19%20AM.png)
+![](Assets/Screen%20Shot%202020-11-01%20at%209.24.00%20PM.png)
 
-![](Assets/Screen%20Shot%202020-10-28%20at%201.33.50%20AM.png)
+![](Assets/Screen%20Shot%202020-11-01%20at%209.24.46%20PM.png)
 
 # Link to demo live project
 
-https://sheltered-reef-58812.herokuapp.com
 
-Built With
+
+# Built With
 
 Javascript
+
 Node.js
 
 # Credits
