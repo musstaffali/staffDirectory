@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  line-height: 1.4;
+  background-image: url(./images/images.jpg);
+}
+
+a {
+  color: #333;
+  text-decoration: none;
+}
+
+.container {
+  padding: 0 1rem;
+  background-color: #101D42;
+}
+
+header {
+  background-color: black;
+}
+
+
+
+
